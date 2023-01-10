@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManjotCodes
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on mini projects
 - 📫 How to reach me &ensp; [![Linked in](https://img.shields.io/badge/Linkedin-0044FF?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manjot-singh-68569a243/) 
 &ensp; [![Gmail](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:fzdmanjot@gmail.com)
@@ -12,3 +12,4 @@
 ManjotCodes/ManjotCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+https://www.holopin.io/@manjotcodes#badges
