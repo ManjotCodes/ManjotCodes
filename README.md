@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ManjotCodes
+# 👋 Hi, I’m @ManjotCodes
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on mini projects
