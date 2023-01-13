@@ -12,7 +12,7 @@
 [![Manjot's Holopin board](https://holopin.me/manjotcodes)](https://holopin.io/@manjotcodes#badges)
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ManjotCodes&show_icons=true&locale=en" alt="ajaysonkaraj" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ManjotCodes&" alt="ManjotCodes" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ManjotCodes&show_icons=true&locale=en" alt="ManjotCodes" />
 
 
 <!---
