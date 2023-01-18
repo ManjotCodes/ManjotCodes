@@ -1,4 +1,4 @@
-# Hi, I am Manjot Singh
+# 👋 Hi, I'm Manjot Singh
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on mini projects
