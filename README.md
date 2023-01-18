@@ -1,9 +1,4 @@
-<!-- RAINBOW LINE TOP -->
-<img src="https://github.com/ManjotCodes/ManjotCodes/raw/main/assets/line-neon.gif" width="100%">
-
-<!-- GIF HEADER -->
-<img src="https://github.com/ManjotCodes/ManjotCodes/raw/main/assets/banner-header.gif">
-
+# Hi, I am Manjot Singh
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on mini projects
