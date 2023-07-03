@@ -19,7 +19,7 @@
 - A passionate Self-taught Front-end developer
 - Currently learning ReactJs
 - Personal website [link](https:google.com)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1kPlkso9tAQxB1HzkHocxrGghlFeporcp/view?usp=sharing))
 
 <br><br>
 
