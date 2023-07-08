@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Manjot Singh </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+![image](https://github.com/ManjotCodes/ManjotCodes/assets/110255794/d5ee8ee3-99b2-40cf-94bb-957ee841e7a2)<h1 align="center"><b>Hi , I'm Manjot Singh </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Eat,Sleep,Code,Repeat..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
@@ -18,7 +18,7 @@
 
 - A passionate Self-taught Front-end developer
 - Currently learning ReactJs
-- Personal website [link](https:google.com)
+- Personal website [link](https://manjotsingh.vercel.app/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1kPlkso9tAQxB1HzkHocxrGghlFeporcp/view?usp=sharing))
 
 <br><br>
